@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mondrian Project</title>
+  <style>
+    /* 
+    Write your CSS here 
+    Gap Colour: #000
+    White: #F0F1EC
+    Red: #E72F24
+    Black: #232629
+    Blue: #004592
+    Yellow: #F9D01E
+
+    For dimensions, see dimensions.png image.
+    HINT: Remember you can't change the properties of grid lines.
+    But grid lines are transparent!
+    */
+    body {
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: #D0E1F9     ;
+    }
+    .container {
+      height: 748px;
+      width: 748px;
+      background-color: #000000;
+      display: grid;
+      grid-template-columns: 320px 198px 153px 50px;
+      grid-template-rows: 414px 130px 155px 22px;
+      gap: 9px;
+    }
+
+    .first-item {
+      background-color: #E72F24;
+    }
+
+    .second-item {
+      background-color: #F0F1EC;
+      grid-column: span 3;
+    }
+
+    .third-item {
+      background-color: #F0F1EC;
+      grid-row: span 2;
+    }
+
+    .fourth-item {
+      background-color: #F0F1EC;
+      grid-row: span 2;
+      grid-column: span 2;
+    }
+
+    .fifth-item {
+      background-color: #004592;
+      border-bottom: 10px solid;
+    }
+
+    .sixth-item {
+      background-color: #F0F1EC; 
+      grid-row: span 2;
+    }
+
+    .seventh-item {
+      background-color: #F0F1EC;
+    }
+
+    .eighth-item {
+      background-color: #F9D01E;
+    }
+
+    .ninth-item {
+      background-color: #232629;
+    }
+
+    /* .gap {
+      grid-column: 1 / -1;
+    } */
+
+  </style>
+</head>
+
+<body>
+  <!-- Write your HTML here -->
+   <div class="container">
+      <div class="first-item"></div>
+      <div class="second-item"></div>
+      <div class="third-item"></div>
+      <div class="fourth-item"></div>
+      <div class="fifth-item"></div>
+      <div class="sixth-item"></div>
+      <div class="seventh-item"></div>
+      <div class="eighth-item"></div>
+      <div class="ninth-item"></div>
+   </div>
+</body>
+
+</html>
