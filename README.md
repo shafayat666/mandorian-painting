@@ -1,6 +1,6 @@
 # Mondrian Painting Project
 
-This project is a **Mondorian Painting** layout designed using **CSS Grid**. The layout is inspired by Piet Mondrian's famous painting style, featuring a grid of bold primary colors and simple geometric shapes. The project demonstrates the use of CSS Grid for precise layout control.
+This project is a **Mandorian Painting** layout designed using **CSS Grid**. The layout is inspired by Piet Mondrian's famous painting style, featuring a grid of bold primary colors and simple geometric shapes. The project demonstrates the use of CSS Grid for precise layout control.
 
 ## Table of Contents
 - [Demo](#demo)
