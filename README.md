@@ -1,6 +1,6 @@
-# Mandorian Painting Project
+# Mondrian Painting Project
 
-This project is a **Mandorian Painting** layout designed using **CSS Grid**. The layout is inspired by Piet Mondrian's famous painting style, featuring a grid of bold primary colors and simple geometric shapes. The project demonstrates the use of CSS Grid for precise layout control.
+This project is a **Mondrian Painting** layout designed using **CSS Grid**. The layout is inspired by Piet Mondrian's famous painting style, featuring a grid of bold primary colors and simple geometric shapes. The project demonstrates the use of CSS Grid for precise layout control.
 
 ## Table of Contents
 - [Demo](#demo)
@@ -11,8 +11,8 @@ This project is a **Mandorian Painting** layout designed using **CSS Grid**. The
 
 ## Demo
 
-You can view a live demo of the project [here](#).  
-![mandorian-painting-preview](mandorian-painting-preview.png)
+You can view a live demo of the project [here](https://shafayat666.github.io/mondrian-painting/).  
+![mondrian-painting-preview](mondrian-painting-preview.png)
 
 ## Technologies Used
 
@@ -35,11 +35,11 @@ To run this project, all you need is a web browser.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shafayat666/mandorian-painting.git
+   git clone https://github.com/shafayat666/mondrian-painting.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd mandorian-painting
+   cd mondrian-painting
    ```
 3. Open the ```index.html``` file in your web browser to view the layout.
 
